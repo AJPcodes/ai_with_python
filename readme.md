@@ -1,4 +1,4 @@
-Working through Aritificial Intelligence with Python
+Working through [Aritificial Intelligence with Python](https://www.packtpub.com/big-data-and-business-intelligence/artificial-intelligence-python) by Prateek Joshi
 
-[This is the original repo from Packt](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python)
+[Here](https://github.com/PacktPublishing/Artificial-Intelligence-with-Python) is the repo associated witht the book.
 
