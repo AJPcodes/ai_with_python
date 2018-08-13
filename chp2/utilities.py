@@ -23,6 +23,9 @@ def visualize_classifier(classifier, X, y):
   # Create a plot
   plt.figure()
   # Choose a color scheme for the plot
+
+  print(plt.cm)
+
   plt.pcolormesh(x_vals, y_vals, shaped_output, cmap=plt.cm.gray)
   # Overlay the training points on the plot
   plt.scatter(X[:, 0], X[:, 1], c=y, s=75, edgecolors='black', linewidth=1, cmap=plt.cm.Paired)
